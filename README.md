@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prafull Korde
 - 👀 I’m interested in Machine learning and AI
 - 🌱 I’m currently learning basic python, R such coding languages and visualisation tools like Power BI and Tableau
-- 💞️ I’m looking to collaborate on finance related projects
+- 💞️ I’m looking to collaborate on all kinds of projects
 - 📫 You can ping me on linkedin 
 
 <!---
